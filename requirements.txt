@@ -1,0 +1,3 @@
+# Runtime dependencies for the deception grid honeypots.
+paramiko>=3.0
+PyYAML>=6.0

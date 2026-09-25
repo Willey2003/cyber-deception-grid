@@ -7,7 +7,7 @@ from typing import Optional
 import paramiko
 from paramiko import ServerInterface, AUTH_SUCCESSFUL, AUTH_FAILED, OPEN_SUCCEEDED
 
-from ...core import AttackerSession, DeceptionGridOrchestrator
+from ..core import AttackerSession, DeceptionGridOrchestrator
 
 logger = logging.getLogger(__name__)
 
